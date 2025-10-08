@@ -1,12 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\01helloworld\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\Tema6\\01helloworld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99C33AB0-2942-4334-A908-8E4F1409EB19}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\gs.villanueva\\documents\\sistema de gestion empresarial\\tema6\\01helloworld\\01helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99C33AB0-2942-4334-A908-8E4F1409EB19}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99C33AB0-2942-4334-A908-8E4F1409EB19}|01HelloWorld\\01HelloWorld.csproj|c:\\users\\gs.villanueva\\documents\\sistema de gestion empresarial\\tema6\\01helloworld\\01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99C33AB0-2942-4334-A908-8E4F1409EB19}|01HelloWorld\\01HelloWorld.csproj|solutionrelative:01helloworld\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\Tema6\\01helloworld\\01HelloWorld\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "01HelloWorld\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\Tema6\\01helloworld\\01HelloWorld\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "01HelloWorld\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-08T12:34:27.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\Tema6\\01helloworld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\Tema6\\01helloworld\\01HelloWorld\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "01HelloWorld\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T12:27:14.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
