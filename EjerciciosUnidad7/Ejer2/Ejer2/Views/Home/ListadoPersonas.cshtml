@@ -1,0 +1,31 @@
+﻿@model List<Ejer2.Models.Entities.clsPersona>
+
+@{
+    ViewData["Title"] = "Listado de Personas";
+}
+
+<h1>Listado de Personas</h1>
+
+<table border="1" cellpadding="5" cellspacing="0">
+    <thead>
+        <tr>
+            <th>Nombre</th>
+            <th>Apellidos</th>
+            <th>Edad</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+                <td>@persona.Nombre</td>
+                <td>@persona.Apellidos</td>
+                <td>@persona.Edad</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<br />
+
+<a asp-controller="Home" asp-action="Index">Volver</a>

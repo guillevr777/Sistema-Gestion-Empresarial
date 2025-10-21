@@ -1,0 +1,17 @@
+﻿@model Ejer2.Models.Entities.clsPersona
+
+@{
+    ViewData["Title"] = "Persona en posición 3";
+}
+
+<h1>Persona en posición 3 del listado</h1>
+
+<ul>
+    <li><strong>Nombre:</strong> @Model.Nombre</li>
+    <li><strong>Apellidos:</strong> @Model.Apellidos</li>
+    <li><strong>Edad:</strong> @Model.Edad años</li>
+</ul>
+
+<br />
+
+<a asp-controller="Home" asp-action="Index">Volver</a> |

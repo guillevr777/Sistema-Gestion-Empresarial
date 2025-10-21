@@ -1,26 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\",
+  "WorkspaceRootPath": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\gs.villanueva\\documents\\sistema de gestion empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|solutionrelative:ejerciciosunidad7\\views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\guill\\documents\\sistemas\\sistema-gestion-empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\models\\entities\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|solutionrelative:ejerciciosunidad7\\models\\entities\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\gs.villanueva\\documents\\sistema de gestion empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\guill\\documents\\sistemas\\sistema-gestion-empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|solutionrelative:ejerciciosunidad7\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\guill\\documents\\sistemas\\sistema-gestion-empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|solutionrelative:ejerciciosunidad7\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\gs.villanueva\\documents\\sistema de gestion empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\guill\\documents\\sistemas\\sistema-gestion-empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|solutionrelative:ejerciciosunidad7\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\gs.villanueva\\documents\\sistema de gestion empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\models\\data\\clslistadopersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\guill\\documents\\sistemas\\sistema-gestion-empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\models\\data\\clslistadopersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|solutionrelative:ejerciciosunidad7\\models\\data\\clslistadopersonas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\gs.villanueva\\documents\\sistema de gestion empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\models\\entities\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|solutionrelative:ejerciciosunidad7\\models\\entities\\clspersona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|c:\\users\\guill\\documents\\sistemas\\sistema-gestion-empresarial\\ejerciciosunidad7\\ejerciciosunidad7\\views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{141981DE-C8BD-402C-B4DA-A781C25C2606}|EjerciciosUnidad7\\EjerciciosUnidad7.csproj|solutionrelative:ejerciciosunidad7\\views\\home\\listadopersonas.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,15 +34,28 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "EjerciciosUnidad7\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "EjerciciosUnidad7\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-21T16:32:06.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "listadoPersonas.cshtml",
-              "DocumentMoniker": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Views\\Home\\listadoPersonas.cshtml",
+              "DocumentMoniker": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Views\\Home\\listadoPersonas.cshtml",
               "RelativeDocumentMoniker": "EjerciciosUnidad7\\Views\\Home\\listadoPersonas.cshtml",
-              "ToolTip": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Views\\Home\\listadoPersonas.cshtml",
+              "ToolTip": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Views\\Home\\listadoPersonas.cshtml",
               "RelativeToolTip": "EjerciciosUnidad7\\Views\\Home\\listadoPersonas.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -47,55 +64,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ClsListadoPersonas.cs",
-              "DocumentMoniker": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\Data\\ClsListadoPersonas.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\Data\\ClsListadoPersonas.cs",
               "RelativeDocumentMoniker": "EjerciciosUnidad7\\Models\\Data\\ClsListadoPersonas.cs",
-              "ToolTip": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\Data\\ClsListadoPersonas.cs",
-              "RelativeToolTip": "EjerciciosUnidad7\\Models\\Data\\ClsListadoPersonas.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAnAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\Data\\ClsListadoPersonas.cs*",
+              "RelativeToolTip": "EjerciciosUnidad7\\Models\\Data\\ClsListadoPersonas.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:16:09.552Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "ClsPersona.cs",
-              "DocumentMoniker": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\Entities\\ClsPersona.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\Entities\\ClsPersona.cs",
               "RelativeDocumentMoniker": "EjerciciosUnidad7\\Models\\Entities\\ClsPersona.cs",
-              "ToolTip": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\Entities\\ClsPersona.cs",
+              "ToolTip": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Models\\Entities\\ClsPersona.cs",
               "RelativeToolTip": "EjerciciosUnidad7\\Models\\Entities\\ClsPersona.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:06:14.161Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Views\\Home\\Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "EjerciciosUnidad7\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "EjerciciosUnidad7\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-10-20T12:02:46.385Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "EjerciciosUnidad7\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\gs.villanueva\\Documents\\Sistema de gestion empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\guill\\Documents\\Sistemas\\Sistema-Gestion-Empresarial\\EjerciciosUnidad7\\EjerciciosUnidad7\\Controllers\\HomeController.cs",
               "RelativeToolTip": "EjerciciosUnidad7\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBMAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAADwvx0AAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-20T12:01:48.098Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }

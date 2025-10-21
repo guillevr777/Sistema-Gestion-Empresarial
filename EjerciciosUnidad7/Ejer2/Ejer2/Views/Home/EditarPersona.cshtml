@@ -1,0 +1,44 @@
+﻿@model Ejer2.Models.Entities.clsPersona
+
+@{
+    ViewData["Title"] = "Editar Persona";
+    var departamentos = ViewBag.Departamentos as List<Ejer2.Models.Entities.clsDepartamento>;
+}
+
+<h1>Editar Persona (aleatoria)</h1>
+
+<form method="post" action="#">
+    <div>
+        <label>Nombre:</label><br />
+        @Html.TextBoxFor(m => m.Nombre, new { @class = "form-control" })
+    </div>
+
+    <div>
+        <label>Apellidos:</label><br />
+        @Html.TextBoxFor(m => m.Apellidos, new { @class = "form-control" })
+    </div>
+
+    <div>
+        <label>Edad:</label><br />
+        @Html.TextBoxFor(m => m.Edad, new { type = "number", @class = "form-control" })
+    </div>
+
+    <div>
+        <label>Departamento:</label><br />
+        @Html.DropDownListFor(
+        m => m.Departamento.IdDepartamento,
+                new SelectList(ViewBag.Departamentos, "IdDepartamento", "NombreDepartamento", Model.Departamento?.IdDepartamento),
+                "Seleccione un departamento",
+                new { @class = "form-control" }
+                )
+    </div>
+
+
+    <br />
+
+    <button type="submit" class="btn btn-primary">Guardar</button>
+</form>
+
+<br />
+
+<a asp-controller="Home" asp-action="Index">Volver</a>
