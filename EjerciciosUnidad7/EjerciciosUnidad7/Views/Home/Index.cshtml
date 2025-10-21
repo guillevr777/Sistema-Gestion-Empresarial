@@ -1,0 +1,18 @@
+﻿@model EjerciciosUnidad7.Models.Entities.clsPersona
+
+@{
+    ViewData["Title"] = "Página de inicio";
+}
+
+<h1>@ViewData["Saludo"]</h1>
+
+<p><strong>Fecha actual:</strong> @ViewBag.FechaActual</p>
+
+<h2>Datos personales</h2>
+<ul>
+    <li><strong>Nombre:</strong> @Model.Nombre</li>
+    <li><strong>Apellidos:</strong> @Model.Apellidos</li>
+    <li><strong>Edad:</strong> @Model.Edad años</li>
+</ul>
+
+<p><a href="@Url.Action("ListadoPersonas", "Home")">Ver listado de personas</a></p>

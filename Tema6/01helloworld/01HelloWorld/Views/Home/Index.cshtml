@@ -1,8 +1,18 @@
 ﻿@{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Inicio";
+    var hora = (DateTime)ViewBag.HoraActual;
 }
 
-<div class="text-center">
-    <h1 class="display-4">Hola mundo</h1>
-    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
-</div>
+<h2>Hola, son las @hora.ToString("HH:mm")</h2>
+
+@if (hora.Hour >= 12)
+{
+    <p>Ya hemos pasado de las 12 del mediodía.</p>
+}
+else
+{
+    <p>No hemos pasado aún de las 12 del mediodía.</p>
+}
+<p>
+    @Html.ActionLink("Ver tabla de multiplicar", "TablaMultiplicar", "Home")
+</p>

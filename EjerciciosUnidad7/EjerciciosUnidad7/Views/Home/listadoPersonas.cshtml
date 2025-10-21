@@ -1,0 +1,29 @@
+﻿@model List<EjerciciosUnidad7.Models.Entities.clsPersona>
+
+@{
+    ViewData["Title"] = "Listado de personas";
+}
+
+<h1>Listado de personas</h1>
+
+<table border="1" cellpadding="5">
+    <thead>
+        <tr>
+            <th>NOMBRE</th>
+            <th>APELLIDOS</th>
+            <th>EDAD</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var persona in Model)
+        {
+            <tr>
+                <td>@persona.Nombre</td>
+                <td>@persona.Apellidos</td>
+                <td>@persona.Edad</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<p><a href="@Url.Action("Index", "Home")">Volver a la página de inicio</a></p>

@@ -1,9 +1,15 @@
 {
   "ExpandedNodes": [
     "",
+    "\\Tema5",
     "\\Tema6",
-    "\\Tema6\\01helloworld"
+    "\\Tema6\\01helloworld",
+    "\\Tema6\\01helloworld\\01HelloWorld",
+    "\\Tema6\\01helloworld\\01HelloWorld\\Controllers",
+    "\\Tema6\\01helloworld\\01HelloWorld\\Views",
+    "\\Tema6\\01helloworld\\01HelloWorld\\Views\\Home",
+    "\\Tema6\\01helloworld\\01HelloWorld\\Views\\Productos"
   ],
-  "SelectedNode": "\\Tema6\\01helloworld\\01helloworld.sln",
+  "SelectedNode": "\\Tema6",
   "PreviewInSolutionExplorer": false
 }
