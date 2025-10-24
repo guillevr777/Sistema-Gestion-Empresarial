@@ -1,15 +1,13 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Tema5",
-    "\\Tema6",
-    "\\Tema6\\01helloworld",
-    "\\Tema6\\01helloworld\\01HelloWorld",
-    "\\Tema6\\01helloworld\\01HelloWorld\\Controllers",
-    "\\Tema6\\01helloworld\\01HelloWorld\\Views",
-    "\\Tema6\\01helloworld\\01HelloWorld\\Views\\Home",
-    "\\Tema6\\01helloworld\\01HelloWorld\\Views\\Productos"
+    "\\EjerciciosUnidad7",
+    "\\EjerciciosUnidad7\\Ejer1",
+    "\\EjerciciosUnidad7\\Ejer2",
+    "\\EjerciciosUnidad7\\Ejer2\\Ejer2",
+    "\\EjerciciosUnidad7\\Ejer2\\Ejer2\\Views",
+    "\\EjerciciosUnidad7\\Ejer2\\Ejer2\\Views\\Home"
   ],
-  "SelectedNode": "\\Tema6",
+  "SelectedNode": "\\EjerciciosUnidad7\\Ejer2\\Ejer2\\Views\\Home\\personaPosicion3.cshtml",
   "PreviewInSolutionExplorer": false
 }
